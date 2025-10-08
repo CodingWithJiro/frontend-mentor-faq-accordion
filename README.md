@@ -1,4 +1,4 @@
-# 💻 FAQ Accordion
+# FAQ Accordion
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%205-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.frontend-mentor-faq-accordion&left_text=repo%20views)
 
-## ℹ️ An Interactive FAQ Accordion for Frontend Mentor Website
+## An Interactive FAQ Accordion for Frontend Mentor Website
 
 | _Mobile Preview (375x812)_                                   | _Desktop Preview (1440x960)_                                    |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -32,11 +32,11 @@
 
 An interactive FAQ accordion component that allows users to expand and collapse questions to view answers. Built with accessibility in mind, responsive across all devices, and includes light/dark theme support.
 
-Created as part of the building challenges from [Frontend Mentor](https://www.frontendmentor.io/).
+Created as part of the building challenges from **[Frontend Mentor](https://www.frontendmentor.io/)**.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project is a fully functional and visually polished FAQ accordion designed for the Frontend Mentor challenge.  
 It uses semantic HTML for structure, CSS for styling and animations, and JavaScript for interactivity.
@@ -46,7 +46,7 @@ Google Lighthouse was used to confirm optimal performance, accessibility, and be
 
 ---
 
-## ✨ Features
+## Features
 
 - Fully responsive (mobile-first) design
 - Expand/collapse accordion with smooth transitions
@@ -58,7 +58,7 @@ Google Lighthouse was used to confirm optimal performance, accessibility, and be
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - I applied the `import` and `export` keywords for modular JavaScript approach
 - Learned the importance of modularizing code for better maintainability
@@ -70,7 +70,7 @@ Google Lighthouse was used to confirm optimal performance, accessibility, and be
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -81,36 +81,36 @@ Google Lighthouse was used to confirm optimal performance, accessibility, and be
 
 ---
 
-## 🎨 Design Reference & Tools
+## Design Reference & Tools
 
 - JPG design image
 - PerfectPixel
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://faq-accordion-fm-jiro.netlify.app/)
-
----
-
-## 📊 Performance Report
-
-A **Google Lighthouse** audit was conducted on the final version of this project. You can view the full report [here](./assets/downloads/lighthouse-performance-report.pdf).
+Or you can check out the **[live website here](https://faq-accordion-fm-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Performance Report
+
+A **Google Lighthouse** audit was conducted on the final version of this project. You can view the **[full report here](./assets/downloads/lighthouse-performance-report.pdf)**.
+
+---
+
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **August 2025**
+Month/Year: **August 2025**
 
-📚 Journey: **5<sup>th</sup>** month of learning _frontend web development_.
+Journey: **5<sup>th</sup>** month of learning _frontend web development_.
